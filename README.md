@@ -30,4 +30,6 @@ After the .vue files are compiled, site.css and VUEsite.js will be created in ww
 In case someone wonders, webpack.mix.js, all things in VUE folder, package.json, mix-manifest.json, and changes in Views/Home/Index.cshtml and Views/Shared/_Layout.cshtml
 are the only changes I made to the .NET Core MVC default template.
 
-The next step is to let all filebrowser vue components work, then translate the Go codes to C#. Welcome anyone to join making the C# version of the filebrowser.
+The next step is to let all filebrowser vue components work, then translate the Go codes to C#, so that it looks close to the original one:
+![image](https://user-images.githubusercontent.com/92812919/215083854-b0307a7b-5f34-4077-b85e-48ea928dd8e2.png)
+
