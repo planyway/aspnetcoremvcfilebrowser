@@ -6,6 +6,7 @@ The normal appearance of the page:
 ![image](https://user-images.githubusercontent.com/92812919/215078822-4777f12d-7199-43fc-8907-85ad558801e9.png)
 
 Laravel Mix is used in this app. The .vue files will be compiled only when you:
+
 Install dependencies
 ```
 npm install
