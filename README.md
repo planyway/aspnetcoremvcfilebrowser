@@ -25,7 +25,7 @@ Or compile for production use
 ```
 npm run prod
 ```
-After the .vue files are compiled, site.css and VUEsite.js will be created in wwwroot.
+After the .vue files are compiled, site.css and vue-site.js will be created in wwwroot.
 
 In case someone wonders, webpack.mix.js, all things in VUE folder, package.json, mix-manifest.json, and changes in Views/Home/Index.cshtml and Views/Shared/_Layout.cshtml
 are the only changes I made to the .NET Core MVC default template.
